@@ -39,38 +39,90 @@ h1 {
 }
 
 .paragraph-list{
-margin: 20px 0px 10px 0px;
+margin: 30px 0px 20px 0px;
 }
 
 .headline-second {
-margin: 40px 0px 12px 0px;
+margin: 40px 0px 15px 0px;
 }
 
 .first-version {
   font-weight: bold;
-  margin: 15px 0px 5px 0px;
+  margin: 15px 0px 7px 0px;
 }
 
 .second-version {
   font-weight: bold;
-  margin: 25px 0px 5px 0px;
+  margin: 25px 0px 7px 0px;
 }
 
 .third-Version {
   font-weight: bold;
-  margin: 25px 0px 5px 0px;
+  margin: 25px 0px 7px 0px;
 }
 
 ul {
   list-style-type: disc;
-  margin: 20px 20px 10px 25px;
+  margin: 20px 20px 30px 25px;
   line-height: 40px;
 }
 
 .paragraph2 {
-  margin: 20px 0px 25px 0px;
+  margin: 20px 0px 40px 0px;
 }
 
 .headline-third {
   margin: 40px 0px 12px 0px;
+}
+
+.paragraph3 {
+  margin: 15px 0px 20px 0px;
+}
+
+.paragraph-1 {
+    margin: 30px 0px 30px 0px;
+}
+
+.paragraph4 {
+  margin: 30px 0px 30px 0px;
+}
+
+.paragraph5 {
+  margin: 30px 0px 30px 0px;
+}
+
+.paragraph6 {
+  margin: 30px 0px 40px 0px;
+}
+
+.headline-4 {
+  font-weight: bold;
+  margin: 15px 0px 12px 0px;
+  font-size: 30px;
+}
+
+.version1 {
+  font-weight: bold;
+  margin: 0px 0px 7px 0px;
+}
+
+.version2 {
+  font-weight: bold;
+  margin: 20px 0px 7px 0px;
+}
+
+.version3 {
+  margin: 20px 0px 7px 0px;
+  font-weight: bold;
+}
+
+.headline-5 {
+  font-weight: bold;
+  margin: 15px 0px 12px 0px;
+  font-size: 30px;
+}
+
+.version4 {
+  margin: 0px 0px 7px 0px;
+  font-weight: bold;
 }
