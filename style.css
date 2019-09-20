@@ -56,8 +56,21 @@ margin: 40px 0px 12px 0px;
   margin: 25px 0px 5px 0px;
 }
 
+.third-Version {
+  font-weight: bold;
+  margin: 25px 0px 5px 0px;
+}
+
 ul {
   list-style-type: disc;
   margin: 20px 20px 10px 25px;
   line-height: 40px;
+}
+
+.paragraph2 {
+  margin: 20px 0px 25px 0px;
+}
+
+.headline-third {
+  margin: 40px 0px 12px 0px;
 }
