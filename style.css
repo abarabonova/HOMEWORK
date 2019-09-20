@@ -3,21 +3,61 @@
 
 body{
   width: 950px;
-  margin: 100px 0px 200px 400px;
+  margin: 50px 600px 200px 400px;
+  line-height: normal;
+  margin-bottom: 60px;
 
-  background-image: url(img/image.jpg);
+  /* background-image: url(img/image.jpg);
   background-repeat: no-repeat;
   background-position: top center;
-  background-size: 800px;
+  background-size: 800px; */
 
-
-    font-family: "PT Sans", Proxima Nova, sans-serif;
-    font-size: 22px;
+  font-family: "PT Sans", Proxima Nova, Arial, sans-serif;
+  font-size: 25px;
 }
 
 h1 {
   color: Black;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.headline {
   font-size: 50px;
   font-weight: bold;
+  margin: 0px 0px 10px 0px;
+}
 
+.first {
+  font-size: 23px;
+  color: #999999;
+  line-height: 30px;
+}
+
+.second-headline {
+  margin: 40px 0px 10px 0px;
+}
+
+.paragraph-list{
+margin: 20px 0px 10px 0px;
+}
+
+.headline-second {
+margin: 40px 0px 12px 0px;
+}
+
+.first-version {
+  font-weight: bold;
+  margin: 15px 0px 5px 0px;
+}
+
+.second-version {
+  font-weight: bold;
+  margin: 25px 0px 5px 0px;
+}
+
+ul {
+  list-style-type: disc;
+  margin: 20px 20px 10px 25px;
+  line-height: 40px;
 }
