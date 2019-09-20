@@ -1,0 +1,23 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap&subset=cyrillic');
+
+body{
+  width: 950px;
+  margin: 100px 0px 200px 400px;
+
+  background-image: url(img/image.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 800px;
+
+
+    font-family: "PT Sans", Proxima Nova, sans-serif;
+    font-size: 22px;
+}
+
+h1 {
+  color: Black;
+  font-size: 50px;
+  font-weight: bold;
+
+}
