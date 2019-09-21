@@ -63,7 +63,7 @@ margin: 40px 0px 15px 0px;
 
 ul {
   list-style-type: disc;
-  margin: 20px 20px 30px 25px;
+  margin: 20px 20px 20px 25px;
   line-height: 40px;
 }
 
@@ -118,11 +118,57 @@ ul {
 
 .headline-5 {
   font-weight: bold;
-  margin: 15px 0px 12px 0px;
+  margin: 30px 0px 12px 0px;
   font-size: 30px;
 }
 
 .version4 {
   margin: 0px 0px 7px 0px;
   font-weight: bold;
+}
+
+.version-6 {
+  margin: 20px 0px 7px 0px;
+  font-weight: bold;
+}
+
+.headline-6 {
+  font-weight: bold;
+  margin: 30px 0px 12px 0px;
+  font-size: 30px;
+}
+
+.version-7 {
+  margin: 0px 0px 7px 0px;
+  font-weight: bold;
+}
+
+.version-8 {
+  margin: 20px 0px 7px 0px;
+  font-weight: bold;
+}
+
+.headline-firth {
+  margin: 40px 0px 15px 0px;
+}
+
+.headline-sixth {
+  margin: 40px 0px -5px 0px;
+}
+
+.headline-seventh {
+  margin: 40px 0px 15px 0px;
+}
+
+.headline-eigth {
+  margin: 40px 0px 0px 0px;
+}
+
+.headline-tenth {
+  margin: 40px 0px 0px 0px;
+}
+
+.link {
+color:grey;
+text-decoration: underline;
 }
