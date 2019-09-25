@@ -1,0 +1,8 @@
+@import "reset.css";
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap&subset=cyrillic');
+
+body{
+  width: 750px;
+  margin: 50px 600px 200px 400px;
+  line-height: normal;
+  margin-bottom: 60px;
