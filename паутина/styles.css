@@ -98,14 +98,11 @@ body{
   margin: 20px 20px 20px 25px;
 }
 
-.ul3 {
-  list-style-type: disc;
+.link {
+text-decoration: underline;
+color: Black;
 }
 
-ul {
-  list-style-type: disc;
-}
-
-.ul {
-  color: blue;
+.p5 {
+  font-weight: bold;
 }
