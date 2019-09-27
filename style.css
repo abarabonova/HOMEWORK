@@ -181,3 +181,28 @@ color: Black;
 .link3 {
   margin: 20px 0px 20px 0px;
 }
+
+blockquote{
+  border: 10px dashes red;
+  font-style: italic;
+  border-left: 2px solid #000;
+
+/* blockquote{
+  position: relative;
+  margin-top: 20px;
+  font-style: italic;
+
+
+}
+
+blockquote::after{
+  position: absolute;
+  left: -20px;
+  content: "";
+}
+
+blockquote::before{
+  position: absolute;
+  left: 20px;
+  content: "";
+} */
