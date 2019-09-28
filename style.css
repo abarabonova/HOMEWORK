@@ -21,7 +21,8 @@ ul,
 h3,
 h4,
 h5,
-h6 {
+h6,
+ol{
 margin: 0 auto;
 width: 800px;
 }
@@ -47,11 +48,30 @@ h3 {
   font-size: 28px;
   font-weight: bold;
   margin-top: 30px;
-  margin-bottom: 1px;
+  margin-bottom: 5px;
+}
+
+h4{
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+h4 + p{
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 a {
   color: black;
+}
+
+li {
+  margin-bottom: 0.6em;
+}
+
+.ul1{
+  margin-bottom: 40px;
 }
 
 img{
