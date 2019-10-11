@@ -106,7 +106,6 @@ ul {
  }
 
  nav {
-
    list-style-type: none;
    position: fixed;
    shadow: 10px 10px 10px grey;
@@ -118,7 +117,6 @@ ul {
    opacity: 0.5;
    background-color: #fff;
    box-shadow: 2px 2px 8px rgba(0,0,0,0.15);
-
  }
 
 nav:hover {
@@ -147,7 +145,7 @@ nav ul li {
 nav ul li ul{
   margin-top: 15px;
   margin-left: 25px;
-  color: Red;
+  color: blue;
 }
 
 nav ul li ul a:hover {
